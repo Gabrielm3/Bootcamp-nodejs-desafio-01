@@ -1,8 +1,11 @@
 # Bootcamp-nodejs-desafio-01
 
-Desafio 1
+#Desafio 1
+
 Configure uma aplicação utilizando ExpressJS, Nunjucks, EditorConfig e ESLint.
-Rotas
+
+#Rotas
+
 / : Rota inicial que renderiza uma página com um formulário com um único campo age
 que representa a idade do usuário;
 /check : Rota chamada pelo formulário da página inicial via método POST que checa se a
